@@ -19,6 +19,7 @@ namespace PromotionEngine
             while (!quitFlag)
             {
                 Console.WriteLine("Please enter SKU IDs.");
+                Console.WriteLine("Please enter SKU IDs1.");
                 // string userInput;
                 string SKuInputs = Console.ReadLine();
                 if (SKuInputs == "q")
